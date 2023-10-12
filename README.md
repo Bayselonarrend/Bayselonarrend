@@ -1,5 +1,16 @@
 ### ⚡⚡⚡
 
+Привет! 
+Я делаю библиотеки для 1C:Enterprise. Все они распространяются под лицензией MIT, так что ты можешь использовать их в любых своих проектах.
+<br><br>
+Вот список моих репозиториев: <br>
+<ul>
+<li><img src="https://github.com/Bayselonarrend/TelegramEnterprise/raw/main/logo_small.png" width="28"> <a href="https://github.com/Bayselonarrend/TelegramEnterprise/">TelegramEnterprise</a> - библиотека для интеграции с Telegram</li>
+  <li><img src="https://github.com/Bayselonarrend/VKEnterprise/raw/main/logo_small.png" width="28"> <a href="https://github.com/Bayselonarrend/VKEnterprise/">VKEnterprise</a> - библиотека для интеграции с ВКонтакте</li>
+  <li><img src="https://github.com/Bayselonarrend/uniloadXLS/raw/main/uniloadxls.png" width="24"> <a href="https://github.com/Bayselonarrend/uniloadXLS/">uniloadXLS</a> - загрузка файлов XLS с приведением ссылочных типов</li>
+</ul>
+
+
 <!--
 **Bayselonarrend/Bayselonarrend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
