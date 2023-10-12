@@ -10,6 +10,7 @@
   <li><img src="https://github.com/Bayselonarrend/uniloadXLS/raw/main/uniloadxls.png" width="24"> <a href="https://github.com/Bayselonarrend/uniloadXLS/">uniloadXLS</a> - загрузка файлов XLS с приведением ссылочных типов</li>
 </ul>
 
+:raised_hands:Если где то есть ошибка - обязательно создай Issue на странице репозитория. Я постараюсь исправить её как только смогу.
 
 <!--
 **Bayselonarrend/Bayselonarrend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
