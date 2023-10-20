@@ -13,6 +13,9 @@
 
 :raised_hands:Если где-то есть ошибка - обязательно создай Issue на странице репозитория. Я постараюсь исправить её как только смогу.
 
+<br><br>
+Также я работаю над проектом [Two-Digit Athenaeum](https://github.com/Bayselonarrend/2athenaeum). Это онлайн библиотека на 1C:Enterprise + ajax и SMM система для группы ВК и Telegram канала. Если вам нужны примеры работы с http или реальные схемы внедрения  
+<a href="https://github.com/Bayselonarrend/TelegramEnterprise/">TelegramEnterprise</a> и <a href="https://github.com/Bayselonarrend/VKEnterprise/">VKEnterprise</a>, то вы можете подсмотреть их там.
 <!--
 **Bayselonarrend/Bayselonarrend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
