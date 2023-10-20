@@ -14,6 +14,7 @@
 :raised_hands:Если где-то есть ошибка - обязательно создай Issue на странице репозитория. Я постараюсь исправить её как только смогу.
 
 <br><br>
+:notebook::notebook::notebook:<br>
 Также я работаю над проектом [Two-Digit Athenaeum](https://github.com/Bayselonarrend/2athenaeum). Это онлайн библиотека (веб-приложение) на 1C:Enterprise + AJAX и SMM система для группы ВК и Telegram канала. Если вам нужны примеры работы с Http из 1С или реальные схемы внедрения  
 <a href="https://github.com/Bayselonarrend/TelegramEnterprise/">TelegramEnterprise</a> и <a href="https://github.com/Bayselonarrend/VKEnterprise/">VKEnterprise</a>, то вы можете подсмотреть их там.
 <!--
