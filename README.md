@@ -10,7 +10,7 @@
 <br>
 Вот список моих репозиториев: <br>
 <ul>
-<li><img src="https://raw.githubusercontent.com/Bayselonarrend/OpenIntegrations/main/Media/logo.png" width="28"> <a href="https://github.com/Bayselonarrend/OpenInetgrations/">Открытый пакет интеграций</a> - набор библиотек для интеграции с Telegram, VK, Viber и Twitter</li>
+<li><img src="https://raw.githubusercontent.com/Bayselonarrend/OpenIntegrations/main/Media/logo.png" width="28"> <a href="https://github.com/Bayselonarrend/OpenIntegrations/">Открытый пакет интеграций</a> - набор библиотек для интеграции с Telegram, VK, Viber и Twitter</li>
   <li><img src="https://github.com/Bayselonarrend/uniloadXLS/raw/main/uniloadxls.png" width="28"> <a href="https://github.com/Bayselonarrend/uniloadXLS/">uniloadXLS</a> - загрузка файлов XLS с приведением ссылочных типов</li>
   <li><img src="https://github.com/Bayselonarrend/1Charts/raw/main/logo.png" width="28"> <a href="https://github.com/Bayselonarrend/1Charts/">1Charts</a> - библиотека формирования диаграмм ToastUI</li>
 </ul>
