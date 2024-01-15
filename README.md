@@ -10,9 +10,7 @@
 <br>
 Вот список моих репозиториев: <br>
 <ul>
-<li><img src="https://github.com/Bayselonarrend/TelegramEnterprise/raw/main/logo_small.png" width="28"> <a href="https://github.com/Bayselonarrend/TelegramEnterprise/">TelegramEnterprise</a> - библиотека для интеграции с Telegram</li>
-  <li><img src="https://github.com/Bayselonarrend/VKEnterprise/raw/main/logo_small.png" width="28"> <a href="https://github.com/Bayselonarrend/VKEnterprise/">VKEnterprise</a> - библиотека для интеграции с ВКонтакте</li>
-  <li><img src="https://github.com/Bayselonarrend/ViberEnterprise/raw/main/logo_small.png" width="28"> <a href="https://github.com/Bayselonarrend/ViberEnterprise/">ViberEnterprise</a> - библиотека для интеграции с Viber</li>
+<li><img src="https://raw.githubusercontent.com/Bayselonarrend/OpenIntegrations/main/Media/logo.png" width="28"> <a href="https://github.com/Bayselonarrend/OpenInetgrations/">Открытый пакет интеграций</a> - набор библиотек для интеграции с Telegram, VK, Viber и Twitter</li>
   <li><img src="https://github.com/Bayselonarrend/uniloadXLS/raw/main/uniloadxls.png" width="28"> <a href="https://github.com/Bayselonarrend/uniloadXLS/">uniloadXLS</a> - загрузка файлов XLS с приведением ссылочных типов</li>
   <li><img src="https://github.com/Bayselonarrend/1Charts/raw/main/logo.png" width="28"> <a href="https://github.com/Bayselonarrend/1Charts/">1Charts</a> - библиотека формирования диаграмм ToastUI</li>
 </ul>
@@ -23,4 +21,3 @@
 <br><br>
 :notebook::notebook::notebook:<br>
 Также я работаю над проектом [Two-Digit Athenaeum](https://github.com/Bayselonarrend/2athenaeum). Это онлайн библиотека (веб-приложение) на 1C:Enterprise + AJAX и SMM система для группы ВК и Telegram канала. Если тебе нужны примеры работы с Http из 1С или реальные схемы внедрения  
-<a href="https://github.com/Bayselonarrend/TelegramEnterprise/">TelegramEnterprise</a> и <a href="https://github.com/Bayselonarrend/VKEnterprise/">VKEnterprise</a>, то можно подсмотреть их там.
