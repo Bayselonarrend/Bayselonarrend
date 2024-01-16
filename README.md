@@ -20,4 +20,4 @@
 
 <br><br>
 :notebook::notebook::notebook:<br>
-Также я работаю над проектом [Two-Digit Athenaeum](https://github.com/Bayselonarrend/2athenaeum). Это онлайн библиотека (веб-приложение) на 1C:Enterprise + AJAX и SMM система для группы ВК и Telegram канала. Если тебе нужны примеры работы с Http из 1С или реальные схемы внедрения  
+Также я работаю над проектом [Two-Digit Athenaeum](https://github.com/Bayselonarrend/2athenaeum). Это онлайн библиотека (веб-приложение) на 1C:Enterprise + AJAX и SMM система для группы ВК и Telegram канала. Если тебе нужны примеры работы с Http из 1С или реальные схемы использования библиотек [Открытого пакета интеграций](https://github.com/Bayselonarrend/OpenIntegrations/)  
