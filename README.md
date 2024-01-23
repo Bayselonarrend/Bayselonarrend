@@ -1,8 +1,8 @@
 
 Привет! 
 Я делаю библиотеки для 1C:Enterprise. Все они распространяются под лицензией MIT, так что ты можешь использовать их в любых своих проектах.<br>
+[<img align="left" width="1390" alt="🦑" src="https://raw.githubusercontent.com/Bayselonarrend/Bayselonarrend/c38117678a54eda8a2d5fee7ed7a803f7541598d/github-metrics.svg">](#)
 
-<p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
 
 <br>
 
