@@ -20,7 +20,7 @@ jobs:
 
                   # Options
           template: classic
-          base: header, repositories
+          base: header, repositories, metadata
           config_display: columns
           config_timezone: Europe/Moscow
           plugin_languages: yes
@@ -34,6 +34,7 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_repositories: yes
+          plugin_repositories_featured: bayselonarrend/OpenIntegrations, bayselonarrend/1Charts, bayselonarrend/2athenaeum
+          plugin_repositories_order: starred, random
 
