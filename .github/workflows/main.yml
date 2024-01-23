@@ -61,3 +61,13 @@ jobs:
           plugin_posts_descriptions: yes
           plugin_posts_covers: yes
 
+    - name: Map
+      if: ${{ success() || failure() }}
+      uses: lowlighter/metrics@latest
+      with:
+        filename: map.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+                  # Options  
+        base: ""
+        plugin_isocalendar: yes
+        plugin_isocalendar_duration: full-year
