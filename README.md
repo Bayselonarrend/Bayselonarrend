@@ -3,12 +3,12 @@
 Я делаю библиотеки для 1C:Enterprise. Все они распространяются под лицензией MIT, так что ты можешь использовать их в любых своих проектах.<br>
 <br>
 
-<div height="400">
+
 <img align="left"  src="https://raw.githubusercontent.com/Bayselonarrend/Bayselonarrend/80084273be40f192bae897db95dd2a8c0ed8d4a8/general.svg">
 <img align="right" src="https://raw.githubusercontent.com/Bayselonarrend/Bayselonarrend/80084273be40f192bae897db95dd2a8c0ed8d4a8/repos.svg">
-</div>
 
-<br><br><br><br><br><br><br><br><br><br><hr><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><hr>
 
   Вот список моих репозиториев:<br><br>
 <li><img src="https://raw.githubusercontent.com/Bayselonarrend/OpenIntegrations/main/Media/logo.png" width="28"> <a href="https://github.com/Bayselonarrend/OpenIntegrations/">Открытый пакет интеграций</a> - набор библиотек для интеграции с Telegram, VK, Viber и Twitter</li>
