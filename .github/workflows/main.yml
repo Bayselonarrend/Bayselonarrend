@@ -48,3 +48,16 @@ jobs:
         plugin_repositories_featured: bayselonarrend/OpenIntegrations, bayselonarrend/1Charts, bayselonarrend/2athenaeum
         plugin_repositories_order: starred, random
 
+    - name: Recent posts with descriptions and cover images
+      if: ${{ success() || failure() }}
+      uses: lowlighter/metrics@latest
+      with:
+          filename: posts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_posts: yes
+          plugin_posts_source: dev.to
+          plugin_posts_limit: 2
+          plugin_posts_descriptions: yes
+          plugin_posts_covers: yes
+
