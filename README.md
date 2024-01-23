@@ -2,8 +2,9 @@
 Привет! 
 Я делаю библиотеки для 1C:Enterprise. Все они распространяются под лицензией MIT, так что ты можешь использовать их в любых своих проектах.<br>
 <br>
-[<img align="left" style="width:48%" src="https://raw.githubusercontent.com/Bayselonarrend/Bayselonarrend/80084273be40f192bae897db95dd2a8c0ed8d4a8/general.svg">](#)
-[<img align="right" style="width:48%" src="https://raw.githubusercontent.com/Bayselonarrend/Bayselonarrend/80084273be40f192bae897db95dd2a8c0ed8d4a8/repos.svg">](#)
+
+<img align="left" width="60%" src="https://raw.githubusercontent.com/Bayselonarrend/Bayselonarrend/80084273be40f192bae897db95dd2a8c0ed8d4a8/general.svg">
+<img align="right" width="36%" src="https://raw.githubusercontent.com/Bayselonarrend/Bayselonarrend/80084273be40f192bae897db95dd2a8c0ed8d4a8/repos.svg">
 
 
 <br>
