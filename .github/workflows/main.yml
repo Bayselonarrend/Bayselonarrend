@@ -23,7 +23,6 @@ jobs:
                   # Options
           template: classic
           base: header, repositories, metadata
-          config_display: columns
           config_timezone: Europe/Moscow
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
