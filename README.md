@@ -10,7 +10,7 @@
 [<img  width="390" src="https://raw.githubusercontent.com/Bayselonarrend/Bayselonarrend/c6fad1740a7c5c1681670d20271cf93da1dd4bf5/posts.svg">](https://infostart.ru/profile/1793672/)
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><hr>
+<br><hr>
 
   Вот список моих репозиториев:
 <li><img src="https://raw.githubusercontent.com/Bayselonarrend/OpenIntegrations/main/Media/logo.png" width="28"> <a href="https://github.com/Bayselonarrend/OpenIntegrations/">Открытый пакет интеграций</a> - набор библиотек для интеграции с Telegram, VK, Viber и Twitter</li>
