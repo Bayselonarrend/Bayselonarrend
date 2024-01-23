@@ -4,8 +4,8 @@
 <br>
 
 
-<img align="left" width="390" src="https://raw.githubusercontent.com/Bayselonarrend/Bayselonarrend/eaf1fa218949a0579e7e3e9d34d987efd2758f61/general.svg">
-<img align="right" width="390" src="https://raw.githubusercontent.com/Bayselonarrend/Bayselonarrend/80084273be40f192bae897db95dd2a8c0ed8d4a8/repos.svg">
+[<img align="left" width="410" src="https://raw.githubusercontent.com/Bayselonarrend/Bayselonarrend/eaf1fa218949a0579e7e3e9d34d987efd2758f61/general.svg">](#)
+[<img align="right" width="410" src="https://raw.githubusercontent.com/Bayselonarrend/Bayselonarrend/80084273be40f192bae897db95dd2a8c0ed8d4a8/repos.svg">](https://github.com/Bayselonarrend?tab=repositories)
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><hr>
