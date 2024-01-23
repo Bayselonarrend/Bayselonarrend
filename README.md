@@ -2,7 +2,7 @@
 Привет! 
 Я делаю библиотеки для 1C:Enterprise. Все они распространяются под лицензией MIT, так что ты можешь использовать их в любых своих проектах.<br>
 
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="1200"></p>
+<p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
 
 <br>
 
