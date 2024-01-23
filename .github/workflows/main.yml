@@ -18,6 +18,7 @@ jobs:
       if: ${{ success() || failure() }}
       uses: lowlighter/metrics@latest
       with:
+          filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
                   # Options
           template: classic
@@ -40,6 +41,7 @@ jobs:
       if: ${{ success() || failure() }}
       uses: lowlighter/metrics@latest
       with:
+        filename: repos.svg
         token: ${{ secrets.METRICS_TOKEN }}
                   # Options  
         base: ""
