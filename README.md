@@ -4,13 +4,7 @@
 <br>
 
 
-[<img  align="left" width="390" src="https://raw.githubusercontent.com/Bayselonarrend/Bayselonarrend/main/general.svg">](#)
 
-[<img  width="390" src="https://raw.githubusercontent.com/Bayselonarrend/Bayselonarrend/main/map.svg">](#)
-[<img  align="left" width="390" src="https://raw.githubusercontent.com/Bayselonarrend/Bayselonarrend/main/posts.svg">](https://infostart.ru/profile/1793672/)
-[<img  width="390" src="https://raw.githubusercontent.com/Bayselonarrend/Bayselonarrend/main/repos.svg">](https://github.com/Bayselonarrend?tab=repositories)
-
-<br><br><br><br><br><hr>
 
   Вот список моих репозиториев:
 <li><img src="https://raw.githubusercontent.com/Bayselonarrend/OpenIntegrations/main/Media/logo.png" width="28"> <a href="https://github.com/Bayselonarrend/OpenIntegrations/">Открытый пакет интеграций</a> - набор библиотек для интеграции с различными API:Telegram, VK, Viber и др.</li>
