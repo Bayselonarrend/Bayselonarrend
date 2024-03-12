@@ -26,4 +26,4 @@
 
 <br><br>
 <img src="https://github.com/Bayselonarrend/Bayselonarrend/assets/105596284/2b9ee620-4966-4342-98d3-787e0d1d75b3" width="72" align="left">
-Также я работаю над проектом [Two-Digit Athenaeum](https://github.com/Bayselonarrend/2athenaeum). Это онлайн библиотека (веб-приложение) на 1C:Enterprise + AJAX и SMM система для группы ВК и Telegram канала. Если тебе нужны примеры работы с Http из 1С или реальные схемы использования библиотек [Открытого пакета интеграций](https://github.com/Bayselonarrend/OpenIntegrations/), то их можно найти там  
+[Two-Digit Athenaeum](https://github.com/Bayselonarrend/2athenaeum) - это онлайн библиотека (веб-приложение) на 1C:Enterprise + AJAX и SMM система для группы ВК и Telegram канала. Книги, выбранные в библиотеке, присылаются при помощи телеграм-бота по одной странице с клавиатурой *Следующая/Предыдущая* - в этом особенность. Если тебе нужны примеры работы с Http из 1С или реальные схемы использования библиотек [Открытого пакета интеграций](https://github.com/Bayselonarrend/OpenIntegrations/), то их можно найти там  
