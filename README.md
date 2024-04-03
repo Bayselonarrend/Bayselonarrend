@@ -1,4 +1,4 @@
-## :v:Привет! 
+﻿## :v:Привет! 
 <br>
 Я делаю библиотеки для 1C:Enterprise. Все они распространяются под лицензией MIT, так что ты можешь использовать их в любых своих проектах.<br>
 <br>
@@ -35,6 +35,32 @@
 
 ## Статьи на Инфостарт
 <div id="infostart_posts">
+
+> <img src="https://infostart.ru/upload/iblock/439/43988ab51d975d825bb114b7acbdc70f.png?19bc5e94-d455-424d-8c87-e86d989369c9" width="96" align="left"> 
+> <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2075473/">Особенности национального Workflow: Секреты, кэш и артефакты в Github Actions</a></h4>
+> <small>Продолжаем знакомиться с инструментарием Github Actions. Рассмотрим сегодня методы хранения и использования секретных данных, связь работ между собой, а также передачу информации между работами</small>  
+> <br clear="left">
+>
+> | :star: +17 |  :calendar: 01.04.2024 |  :speech_balloon: 0 |  :eyes: 463 |
+>  |-|-|-|-|  
+
+
+> <img src="https://infostart.ru/upload/iblock/e1e/e1eddd228630c7c47b98a2baa0f48430.png?dfcbd5e2-0824-4c24-aca5-b082f8901ecb" width="96" align="left"> 
+> <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2068854/">Особенности национального Workflow: Github Actions и OneScript</a></h4>
+> <small>Сегодня мы посмотрим на Github Actions - встроенный инструментарий Github для автоматизации рабочих процессов. Разберем, что это такое, зачем и причем тут OneScript.</small>  
+> <br clear="left">
+>
+> | :star: +37 |  :calendar: 25.03.2024 |  :speech_balloon: 3 |  :eyes: 1393 |
+>  |-|-|-|-|  
+
+
+> <img src="https://infostart.ru/upload/iblock/286/286719ca03209cf9e195d77daf55a2a1.png?bf9f140a-e0d6-4bb4-8ba9-316ba34a36c0" width="96" align="left"> 
+> <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2066469/">Библиотека для работы с Google Drive API (open-source)</a></h4>
+> <small>Новая небольшая библиотека в составе Открытого пакета интеграций для работы с Google Drive. Поддерживает работу с файлами, каталогами и комментариями</small>  
+> <br clear="left">
+>
+> | :star: +28 |  :calendar: 18.03.2024 |  :speech_balloon: 5 |  :eyes: 790 |
+>  |-|-|-|-|  
 
 </div>
 
