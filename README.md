@@ -1,17 +1,18 @@
 ﻿## :v:Привет! 
 <br>
-Я делаю библиотеки для 1C:Enterprise. Все они распространяются под лицензией MIT, так что ты можешь использовать их в любых своих проектах.<br>
+Я делаю библиотеки и инструменты в области 1C:Enterprise/OneScript. Все они распространяются под лицензией MIT, так что ты можешь использовать их в любых своих проектах.<br>
 <br>
 
 
 
 
- ## Мои библиотеки
+ ## Мои основные репозитории
 
  Актуальные:
-<li><img src="https://raw.githubusercontent.com/Bayselonarrend/OpenIntegrations/main/Media/logo.png" width="28"> <a href="https://github.com/Bayselonarrend/OpenIntegrations/">Открытый пакет интеграций</a> - набор библиотек для интеграции с различными API: Telegram, VK, Viber и др.</li>
-  <li><img src="https://github.com/Bayselonarrend/uniloadXLS/raw/main/uniloadxls.png" width="28"> <a href="https://github.com/Bayselonarrend/uniloadXLS/">uniloadXLS</a> - загрузка файлов XLS с приведением ссылочных типов</li>
+   <li><img src="https://raw.githubusercontent.com/Bayselonarrend/OpenIntegrations/main/Media/logo.png" width="28"> <a href="https://github.com/Bayselonarrend/OpenIntegrations/">Открытый пакет интеграций</a> - набор библиотек для интеграции с различными API: Telegram, VK, Viber и др.</li>
   <li><img src="https://github.com/Bayselonarrend/1Charts/raw/main/logo.png" width="28"> <a href="https://github.com/Bayselonarrend/1Charts/">1Charts</a> - библиотека формирования диаграмм ToastUI</li>
+  <li><img src="https://github.com/Bayselonarrend/uniloadXLS/raw/main/uniloadxls.png" width="28"> <a href="https://github.com/Bayselonarrend/uniloadXLS/">uniloadXLS</a> - загрузка файлов XLS с приведением ссылочных типов</li>
+  <li><img src="https://github.com/Bayselonarrend/infometrics-articles/assets/105596284/ef7e8987-3f98-4e2f-a9a6-1d112ff72f79" width="26"> <a href="https://github.com/Bayselonarrend/infometrics-articles/">infometrics-articles</a> - небольшой Action для вывода списка последних статей Инфостарт в Readme профиля</li>
 
 <br><br>
   Больше не поддерживаются: <br>
