@@ -36,14 +36,15 @@
 
 ## Статьи на Инфостарт
 <div id="infostart_posts">
- 
+
 ><img src="https://infostart.ru/upload/iblock/439/43988ab51d975d825bb114b7acbdc70f.png" width="96" align="left">
 ><h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2075473/">Особенности национального Workflow: Секреты, кэш и артефакты в Github Actions</a></h4>
 ><small>Продолжаем знакомиться с инструментарием Github Actions. Рассмотрим сегодня методы хранения и использования секретных данных, связь работ между собой, а также передачу информации между работами</small>
 ><br clear="left">
 >
->| :star: +17 |  :calendar: 01.04.2024 |  :speech_balloon: 0 |  :eyes: 488 |
+>| :star: +17 |  :calendar: 01.04.2024 |  :speech_balloon: 0 |  :eyes: 489 |
 >|-|-|-|-|
+
 
 
 ><img src="https://infostart.ru/upload/iblock/e1e/e1eddd228630c7c47b98a2baa0f48430.png" width="96" align="left">
@@ -51,8 +52,9 @@
 ><small>Сегодня мы посмотрим на Github Actions - встроенный инструментарий Github для автоматизации рабочих процессов. Разберем, что это такое, зачем и причем тут OneScript.</small>
 ><br clear="left">
 >
->| :star: +37 |  :calendar: 25.03.2024 |  :speech_balloon: 3 |  :eyes: 1398 |
+>| :star: +37 |  :calendar: 25.03.2024 |  :speech_balloon: 3 |  :eyes: 1399 |
 >|-|-|-|-|
+
 
 
 ><img src="https://infostart.ru/upload/iblock/286/286719ca03209cf9e195d77daf55a2a1.png" width="96" align="left">
