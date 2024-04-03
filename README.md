@@ -36,6 +36,7 @@
 
 ## Статьи на Инфостарт
 <div id="infostart_posts">
+ 
 ><img src="https://infostart.ru/upload/iblock/439/43988ab51d975d825bb114b7acbdc70f.png" width="96" align="left">
 ><h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2075473/">Особенности национального Workflow: Секреты, кэш и артефакты в Github Actions</a></h4>
 ><small>Продолжаем знакомиться с инструментарием Github Actions. Рассмотрим сегодня методы хранения и использования секретных данных, связь работ между собой, а также передачу информации между работами</small>
