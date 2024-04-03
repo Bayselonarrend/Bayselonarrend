@@ -12,9 +12,11 @@
    <li><img src="https://raw.githubusercontent.com/Bayselonarrend/OpenIntegrations/main/Media/logo.png" width="28"> <a href="https://github.com/Bayselonarrend/OpenIntegrations/">Открытый пакет интеграций</a> - набор библиотек для интеграции с различными API: Telegram, VK, Viber и др.</li>
   <li><img src="https://github.com/Bayselonarrend/1Charts/raw/main/logo.png" width="28"> <a href="https://github.com/Bayselonarrend/1Charts/">1Charts</a> - библиотека формирования диаграмм ToastUI</li>
   <li><img src="https://github.com/Bayselonarrend/uniloadXLS/raw/main/uniloadxls.png" width="28"> <a href="https://github.com/Bayselonarrend/uniloadXLS/">uniloadXLS</a> - загрузка файлов XLS с приведением ссылочных типов</li>
-  <li><img src="https://github.com/Bayselonarrend/infometrics-articles/assets/105596284/ef7e8987-3f98-4e2f-a9a6-1d112ff72f79" width="26"> <a href="https://github.com/Bayselonarrend/infometrics-articles/">infometrics-articles</a> - небольшой Action для вывода списка последних статей Инфостарт в Readme профиля</li>
+  <li><img src="https://github.com/Bayselonarrend/Bayselonarrend/assets/105596284/fc0fc9e9-6a6a-49d0-9c5f-9ff15d6ae43b" width="28"> <a href="https://github.com/Bayselonarrend/infometrics-articles/">infometrics-articles</a> - небольшой Action для вывода списка последних статей Инфостарт в Readme профиля</li>
 
 <br><br>
+
+
   Больше не поддерживаются: <br>
   <li><strike><img src="https://github.com/Bayselonarrend/TelegramEnterprise/raw/main/logo.png" width="28"> <a href="https://github.com/Bayselonarrend/TelegramEnterprise/">TelegramEnterprise</a> - библиотека для работы с Telegram </strike></li>
   <li><strike><img src="https://github.com/Bayselonarrend/VKEnterprise/raw/main/logo.png" width="28"> <a href="https://github.com/Bayselonarrend/VKEnterprise/">VKEnterprise</a> - библиотека для работы с VK </strike></li>
