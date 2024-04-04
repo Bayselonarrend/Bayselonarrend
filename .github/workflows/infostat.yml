@@ -13,4 +13,4 @@ jobs:
         with:
           profile-id: '1793672'
           count: '3'
-          template: ./article.html
+          template: ./article2.html
