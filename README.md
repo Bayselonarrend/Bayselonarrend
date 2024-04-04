@@ -39,33 +39,15 @@
 ## Статьи на Инфостарт
 <div id="infostart_posts">
 
-><img src="https://infostart.ru/upload/iblock/439/43988ab51d975d825bb114b7acbdc70f.png?3a02262e-2571-46f5-b7ab-4e7e3458433c" width="96" align="left">
-><h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2075473/">Особенности национального Workflow: Секреты, кэш и артефакты в Github Actions</a></h4>
-><small>Продолжаем знакомиться с инструментарием Github Actions. Рассмотрим сегодня методы хранения и использования секретных данных, связь работ между собой, а также передачу информации между работами</small>
-><br clear="left">
->
->| :star: +18 |  :calendar: 01.04.2024 |  :speech_balloon: 0 |  :eyes: 507 |
->|-|-|-|-|
+* [Особенности национального Workflow: Секреты, кэш и артефакты в Github Actions](https://infostart.ru/1c/articles/2075473/) - +18 звезд, 521 просмотров
 
 
 
-><img src="https://infostart.ru/upload/iblock/e1e/e1eddd228630c7c47b98a2baa0f48430.png?536c11ce-5735-4c15-9187-f46fd63cab94" width="96" align="left">
-><h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2068854/">Особенности национального Workflow: Github Actions и OneScript</a></h4>
-><small>Сегодня мы посмотрим на Github Actions - встроенный инструментарий Github для автоматизации рабочих процессов. Разберем, что это такое, зачем и причем тут OneScript.</small>
-><br clear="left">
->
->| :star: +37 |  :calendar: 25.03.2024 |  :speech_balloon: 3 |  :eyes: 1406 |
->|-|-|-|-|
+* [Особенности национального Workflow: Github Actions и OneScript](https://infostart.ru/1c/articles/2068854/) - +37 звезд, 1410 просмотров
 
 
 
-><img src="https://infostart.ru/upload/iblock/286/286719ca03209cf9e195d77daf55a2a1.png?37ae47cc-71f6-46f2-8c29-1c7cd0e4280f" width="96" align="left">
-><h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2066469/">Библиотека для работы с Google Drive API (open-source)</a></h4>
-><small>Новая небольшая библиотека в составе Открытого пакета интеграций для работы с Google Drive. Поддерживает работу с файлами, каталогами и комментариями</small>
-><br clear="left">
->
->| :star: +28 |  :calendar: 18.03.2024 |  :speech_balloon: 7 |  :eyes: 811 |
->|-|-|-|-|
+* [Библиотека для работы с Google Drive API (open-source)](https://infostart.ru/1c/articles/2066469/) - +28 звезд, 811 просмотров
 
 
 </div>
