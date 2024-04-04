@@ -43,9 +43,9 @@
  <ul>
 <div id="infostart_posts">
 
-<li>[Особенности национального Workflow: Секреты, кэш и артефакты в Github Actions](https://infostart.ru/1c/articles/2075473/) - +18 звезд, 529 просмотров</li>
-<li>[Особенности национального Workflow: Github Actions и OneScript](https://infostart.ru/1c/articles/2068854/) - +37 звезд, 1412 просмотров</li>
-<li>[Библиотека для работы с Google Drive API (open-source)](https://infostart.ru/1c/articles/2066469/) - +28 звезд, 831 просмотров</li>
+<li><a href="https://infostart.ru/1c/articles/2075473/">Особенности национального Workflow: Секреты, кэш и артефакты в Github Actions - +18 звезд, 529 просмотров</a></li>
+<li><a href="https://infostart.ru/1c/articles/2068854/">Особенности национального Workflow: Github Actions и OneScript - +37 звезд, 1412 просмотров</a></li>
+<li><a href="https://infostart.ru/1c/articles/2066469/">Библиотека для работы с Google Drive API (open-source) - +28 звезд, 832 просмотров</a></li>
 </div>
 </ul>
 </li></ul>
