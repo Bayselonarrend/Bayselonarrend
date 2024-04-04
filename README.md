@@ -36,7 +36,11 @@
 
 <br>
 
-## Статьи на Инфостарт
+## 
+
+<ul><li>
+ <p>Статьи на Инфостарт</p>
+ <ul>
 <div id="infostart_posts">
 
 
@@ -62,6 +66,8 @@
 > | :star: +28 |  :calendar: 18.03.2024 |  :speech_balloon: 7 |  :eyes: 812 |
 >  |-|-|-|-|  
 </div>
+</ul>
+</li></ul>
 
 <hr>
 
