@@ -40,26 +40,26 @@
 <div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/439/43988ab51d975d825bb114b7acbdc70f.png?3dfec050-43ed-4a59-9b09-420ea829678a" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/439/43988ab51d975d825bb114b7acbdc70f.png?af270f37-f2ea-47db-ad37-61597b9860f5" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2075473/">Особенности национального Workflow: Секреты, кэш и артефакты в Github Actions</a></h4>
 > <small>Продолжаем знакомиться с инструментарием Github Actions. Рассмотрим сегодня методы хранения и использования секретных данных, связь работ между собой, а также передачу информации между работами</small>  
 > <br clear="left">
 >
-> | :star: +18 |  :calendar: 01.04.2024 |  :speech_balloon: 0 |  :eyes: 529 |
+> | :star: +18 |  :calendar: 01.04.2024 |  :speech_balloon: 6 |  :eyes: 607 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/e1e/e1eddd228630c7c47b98a2baa0f48430.png?42073df3-69f6-498f-b967-4e164075b21a" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/e1e/e1eddd228630c7c47b98a2baa0f48430.png?9e4f0639-9171-4199-9224-923572f4c51f" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2068854/">Особенности национального Workflow: Github Actions и OneScript</a></h4>
 > <small>Сегодня мы посмотрим на Github Actions - встроенный инструментарий Github для автоматизации рабочих процессов. Разберем, что это такое, зачем и причем тут OneScript.</small>  
 > <br clear="left">
 >
-> | :star: +37 |  :calendar: 25.03.2024 |  :speech_balloon: 3 |  :eyes: 1412 |
+> | :star: +38 |  :calendar: 25.03.2024 |  :speech_balloon: 3 |  :eyes: 1434 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/286/286719ca03209cf9e195d77daf55a2a1.png?cfd78c03-a33c-489b-a8eb-22b07206776d" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/286/286719ca03209cf9e195d77daf55a2a1.png?ac0ba088-35f5-4835-be8a-3919d28f13ab" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2066469/">Библиотека для работы с Google Drive API (open-source)</a></h4>
 > <small>Новая небольшая библиотека в составе Открытого пакета интеграций для работы с Google Drive. Поддерживает работу с файлами, каталогами и комментариями</small>  
 > <br clear="left">
 >
-> | :star: +28 |  :calendar: 18.03.2024 |  :speech_balloon: 9 |  :eyes: 834 |
+> | :star: +28 |  :calendar: 18.03.2024 |  :speech_balloon: 9 |  :eyes: 865 |
 >  |-|-|-|-|  
 </div>
 
