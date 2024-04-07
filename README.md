@@ -39,28 +39,9 @@
 ## Статьи на Инфостарт
 <div id="infostart_posts">
 
-
-> <img src="https://infostart.ru/upload/iblock/439/43988ab51d975d825bb114b7acbdc70f.png?0b66ddfd-1575-4ba1-93ac-c938e8ee2533" width="96" align="left"> 
-> <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2075473/">Особенности национального Workflow: Секреты, кэш и артефакты в Github Actions</a></h4>
-> <small>Продолжаем знакомиться с инструментарием Github Actions. Рассмотрим сегодня методы хранения и использования секретных данных, связь работ между собой, а также передачу информации между работами</small>  
-> <br clear="left">
->
-> | :star: +18 |  :calendar: 01.04.2024 |  :speech_balloon: 6 |  :eyes: 620 |
->  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/e1e/e1eddd228630c7c47b98a2baa0f48430.png?e3b704c3-34fb-487b-b4b4-5a353f3f4a9d" width="96" align="left"> 
-> <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2068854/">Особенности национального Workflow: Github Actions и OneScript</a></h4>
-> <small>Сегодня мы посмотрим на Github Actions - встроенный инструментарий Github для автоматизации рабочих процессов. Разберем, что это такое, зачем и причем тут OneScript.</small>  
-> <br clear="left">
->
-> | :star: +38 |  :calendar: 25.03.2024 |  :speech_balloon: 3 |  :eyes: 1440 |
->  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/286/286719ca03209cf9e195d77daf55a2a1.png?552ee9c7-eb61-41df-ae82-97f3816817e9" width="96" align="left"> 
-> <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2066469/">Библиотека для работы с Google Drive API (open-source)</a></h4>
-> <small>Новая небольшая библиотека в составе Открытого пакета интеграций для работы с Google Drive. Поддерживает работу с файлами, каталогами и комментариями</small>  
-> <br clear="left">
->
-> | :star: +28 |  :calendar: 18.03.2024 |  :speech_balloon: 10 |  :eyes: 884 |
->  |-|-|-|-|  
+<div><a href="https://infostart.ru/1c/articles/2075473/">Особенности национального Workflow: Секреты, кэш и артефакты в Github Actions - +18 звезд, 629 просмотров</a></div>
+<div><a href="https://infostart.ru/1c/articles/2068854/">Особенности национального Workflow: Github Actions и OneScript - +38 звезд, 1446 просмотров</a></div>
+<div><a href="https://infostart.ru/1c/articles/2066469/">Библиотека для работы с Google Drive API (open-source) - +28 звезд, 911 просмотров</a></div>
 </div>
 
 <hr>
