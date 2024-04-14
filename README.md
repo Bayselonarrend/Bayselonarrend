@@ -40,26 +40,26 @@
 <div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/5b0/5b0e42cf49ecef4c27d15fba9f15e6c3.png?ba43e5ab-9689-4514-b891-5b0f0ac917bf" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/5b0/5b0e42cf49ecef4c27d15fba9f15e6c3.png?814835fc-a23d-45e8-a989-4d40c90ad3ae" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2083470/">Обновляемый список последних статей Инфостарт для профиля Github</a></h4>
 > <small>Не знаете, чем бы таким заполнить свой профиль Github? Заполните его своими статьями на Инфостарт! Этот простой workflow сам соберет список ваших последних статей и будет периодически обновлять его для актуализации данных.</small>  
 > <br clear="left">
 >
-> | :star: +28 |  :calendar: 08.04.2024 |  :speech_balloon: 2 |  :eyes: 734 |
+> | :star: +28 |  :calendar: 08.04.2024 |  :speech_balloon: 2 |  :eyes: 811 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/439/43988ab51d975d825bb114b7acbdc70f.png?6fb4a5f4-e5cd-480a-9229-b07644f6e938" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/439/43988ab51d975d825bb114b7acbdc70f.png?597dbc75-1868-4d84-9c6f-53c019287f86" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2075473/">Особенности национального Workflow: Секреты, кэш и артефакты в Github Actions</a></h4>
 > <small>Продолжаем знакомиться с инструментарием Github Actions. Рассмотрим сегодня методы хранения и использования секретных данных, связь работ между собой, а также передачу информации между работами</small>  
 > <br clear="left">
 >
-> | :star: +18 |  :calendar: 01.04.2024 |  :speech_balloon: 6 |  :eyes: 708 |
+> | :star: +18 |  :calendar: 01.04.2024 |  :speech_balloon: 6 |  :eyes: 716 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/e1e/e1eddd228630c7c47b98a2baa0f48430.png?5a5a23c1-6efe-48b1-a3dc-8488d1f59195" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/e1e/e1eddd228630c7c47b98a2baa0f48430.png?d368894d-1ff2-4c94-be7e-c0d97dc37748" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2068854/">Особенности национального Workflow: Github Actions и OneScript</a></h4>
 > <small>Сегодня мы посмотрим на Github Actions - встроенный инструментарий Github для автоматизации рабочих процессов. Разберем, что это такое, зачем и причем тут OneScript.</small>  
 > <br clear="left">
 >
-> | :star: +38 |  :calendar: 25.03.2024 |  :speech_balloon: 3 |  :eyes: 1512 |
+> | :star: +38 |  :calendar: 25.03.2024 |  :speech_balloon: 3 |  :eyes: 1516 |
 >  |-|-|-|-|  
 </div>
 
