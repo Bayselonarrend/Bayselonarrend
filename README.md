@@ -40,26 +40,26 @@
 <div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/c3b/c3bdd7c3c96daebccdf3c9a4054affa7.png?2a6bef8c-3424-484c-89ec-3365f1d3b26d" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/c3b/c3bdd7c3c96daebccdf3c9a4054affa7.png?0a5464d6-06ee-469f-99cd-5eebbdb53ac5" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2074205/">OInt CLI - приложение Открытого пакета интеграций для командной строки</a></h4>
 > <small>Все методы интеграции ОПИ теперь в формате приложения для CMD/Shell! Простой и компактный исполняемый файл со встроенной справкой - удобный инструмент для тестирования и работы с вашими любимыми сервисами. Пока в раннем доступе</small>  
 > <br clear="left">
 >
-> | :star: +40 |  :calendar: 15.04.2024 |  :speech_balloon: 11 |  :eyes: 927 |
+> | :star: +40 |  :calendar: 15.04.2024 |  :speech_balloon: 11 |  :eyes: 943 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/5b0/5b0e42cf49ecef4c27d15fba9f15e6c3.png?99bf00aa-199b-4084-b1ad-ca84083d8de0" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/5b0/5b0e42cf49ecef4c27d15fba9f15e6c3.png?bf53aa1d-12b5-49b9-8b92-a0862b2fba37" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2083470/">Обновляемый список последних статей Инфостарт для профиля Github</a></h4>
 > <small>Не знаете, чем бы таким заполнить свой профиль Github? Заполните его своими статьями на Инфостарт! Этот простой workflow сам соберет список ваших последних статей и будет периодически обновлять его для актуализации данных.</small>  
 > <br clear="left">
 >
-> | :star: +31 |  :calendar: 08.04.2024 |  :speech_balloon: 2 |  :eyes: 918 |
+> | :star: +31 |  :calendar: 08.04.2024 |  :speech_balloon: 2 |  :eyes: 923 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/439/43988ab51d975d825bb114b7acbdc70f.png?1ebc6f04-35ac-49ea-801d-b11b4dad9e28" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/439/43988ab51d975d825bb114b7acbdc70f.png?205c9bab-afa4-41e7-bf49-22b6f3c9759e" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2075473/">Особенности национального Workflow: Секреты, кэш и артефакты в Github Actions</a></h4>
 > <small>Продолжаем знакомиться с инструментарием Github Actions. Рассмотрим сегодня методы хранения и использования секретных данных, связь работ между собой, а также передачу информации между работами</small>  
 > <br clear="left">
 >
-> | :star: +19 |  :calendar: 01.04.2024 |  :speech_balloon: 6 |  :eyes: 774 |
+> | :star: +19 |  :calendar: 01.04.2024 |  :speech_balloon: 6 |  :eyes: 780 |
 >  |-|-|-|-|  
 </div>
 
