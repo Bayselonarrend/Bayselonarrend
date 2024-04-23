@@ -40,26 +40,26 @@
 <div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/c3b/c3bdd7c3c96daebccdf3c9a4054affa7.png?cfbc7a50-1cfe-4ff2-bd80-bfdc1f637c0e" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/a8a/a8ace770b9e89869c89effbf1e864fc9.png?e402c66d-dfdb-4ed3-8e60-96cfaca01d9b" width="96" align="left"> 
+> <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2035437/">Глоссарий HTTP аутентификации: Basic, Bearer, OAuth и другие непонятные слова</a></h4>
+> <small>Рано или поздно каждый 1С разработчик сталкивается с задачей автоматизации работы со сторонним сервисом посредством RestAPI. Одними из основных (а, как правило - и самыми запутанными) элементами любой пдобной автоматизации являются процессы авторизации и аутентификации. Токены, подписи, шифрование - как не потеряться во всем этом? Поможет данное краткое руководство</small>  
+> <br clear="left">
+>
+> | :star: +39 |  :calendar: вчера в 11:30 |  :speech_balloon: 6 |  :eyes: 709 |
+>  |-|-|-|-|  
+> <img src="https://infostart.ru/upload/iblock/c3b/c3bdd7c3c96daebccdf3c9a4054affa7.png?fea2f9ac-87c8-4652-950b-b4c2f7638824" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2074205/">OInt CLI - приложение Открытого пакета интеграций для командной строки</a></h4>
 > <small>Все методы интеграции ОПИ теперь в формате приложения для CMD/Shell! Простой и компактный исполняемый файл со встроенной справкой - удобный инструмент для тестирования и работы с вашими любимыми сервисами. Пока в раннем доступе</small>  
 > <br clear="left">
 >
-> | :star: +40 |  :calendar: 15.04.2024 |  :speech_balloon: 11 |  :eyes: 954 |
+> | :star: +42 |  :calendar: 15.04.2024 |  :speech_balloon: 11 |  :eyes: 991 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/5b0/5b0e42cf49ecef4c27d15fba9f15e6c3.png?d340f0d4-28b2-4a04-bd78-f061b87a053d" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/5b0/5b0e42cf49ecef4c27d15fba9f15e6c3.png?bcfc3013-4c35-4ab0-a90b-ff3ea2e7c825" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2083470/">Обновляемый список последних статей Инфостарт для профиля Github</a></h4>
 > <small>Не знаете, чем бы таким заполнить свой профиль Github? Заполните его своими статьями на Инфостарт! Этот простой workflow сам соберет список ваших последних статей и будет периодически обновлять его для актуализации данных.</small>  
 > <br clear="left">
 >
-> | :star: +31 |  :calendar: 08.04.2024 |  :speech_balloon: 2 |  :eyes: 926 |
->  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/439/43988ab51d975d825bb114b7acbdc70f.png?470bf906-92c0-4abc-aa5e-a709760defa8" width="96" align="left"> 
-> <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2075473/">Особенности национального Workflow: Секреты, кэш и артефакты в Github Actions</a></h4>
-> <small>Продолжаем знакомиться с инструментарием Github Actions. Рассмотрим сегодня методы хранения и использования секретных данных, связь работ между собой, а также передачу информации между работами</small>  
-> <br clear="left">
->
-> | :star: +19 |  :calendar: 01.04.2024 |  :speech_balloon: 6 |  :eyes: 784 |
+> | :star: +31 |  :calendar: 08.04.2024 |  :speech_balloon: 2 |  :eyes: 929 |
 >  |-|-|-|-|  
 </div>
 
