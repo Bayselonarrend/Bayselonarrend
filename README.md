@@ -40,26 +40,26 @@
 <div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/a8a/a8ace770b9e89869c89effbf1e864fc9.png?f53e7277-e855-43aa-bb83-bceb6b1b760e" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/a8a/a8ace770b9e89869c89effbf1e864fc9.png?fb488059-f20a-47d4-b866-ad22c253c05e" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2035437/">Глоссарий HTTP аутентификации: Basic, Bearer, OAuth и другие непонятные слова</a></h4>
 > <small>Рано или поздно каждый 1С разработчик сталкивается с задачей автоматизации работы со сторонним сервисом посредством RestAPI. Одними из основных (а, как правило - и самыми запутанными) элементами любой пдобной автоматизации являются процессы авторизации и аутентификации. Токены, подписи, шифрование - как не потеряться во всем этом? Поможет данное краткое руководство</small>  
 > <br clear="left">
 >
-> | :star: +67 |  :calendar: 22.04.2024 |  :speech_balloon: 7 |  :eyes: 1133 |
+> | :star: +73 |  :calendar: 22.04.2024 |  :speech_balloon: 10 |  :eyes: 1341 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/c3b/c3bdd7c3c96daebccdf3c9a4054affa7.png?1343b3b0-ef2c-4fb5-b4d3-319965447e84" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/c3b/c3bdd7c3c96daebccdf3c9a4054affa7.png?cd7dd0d6-17ee-48bb-bbfe-93be00ea22e5" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2074205/">OInt CLI - приложение Открытого пакета интеграций для командной строки</a></h4>
 > <small>Все методы интеграции ОПИ теперь в формате приложения для CMD/Shell! Простой и компактный исполняемый файл со встроенной справкой - удобный инструмент для тестирования и работы с вашими любимыми сервисами. Пока в раннем доступе</small>  
 > <br clear="left">
 >
-> | :star: +42 |  :calendar: 15.04.2024 |  :speech_balloon: 11 |  :eyes: 1001 |
+> | :star: +42 |  :calendar: 15.04.2024 |  :speech_balloon: 11 |  :eyes: 1011 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/5b0/5b0e42cf49ecef4c27d15fba9f15e6c3.png?1be3f5ab-0d8c-455c-8df9-76561a49be5d" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/5b0/5b0e42cf49ecef4c27d15fba9f15e6c3.png?40577bc3-9565-4ec5-bc9d-fd311e04ff59" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2083470/">Обновляемый список последних статей Инфостарт для профиля Github</a></h4>
 > <small>Не знаете, чем бы таким заполнить свой профиль Github? Заполните его своими статьями на Инфостарт! Этот простой workflow сам соберет список ваших последних статей и будет периодически обновлять его для актуализации данных.</small>  
 > <br clear="left">
 >
-> | :star: +31 |  :calendar: 08.04.2024 |  :speech_balloon: 2 |  :eyes: 934 |
+> | :star: +31 |  :calendar: 08.04.2024 |  :speech_balloon: 2 |  :eyes: 938 |
 >  |-|-|-|-|  
 </div>
 
