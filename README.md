@@ -40,26 +40,26 @@
 <div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/9ba/9ba4d57b52d4f5871e4f83ca87435697.png?4de67a55-217a-4f4d-a18b-c1e00d47a5f1" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/9ba/9ba4d57b52d4f5871e4f83ca87435697.png?b71aa2a9-3939-45e8-96b3-5798d076f6a0" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2099282/">Библиотека для работы со Slack (open-source)</a></h4>
 > <small>Новый API в наборе Открытого пакета интеграций - Slack Web API. Поговорим о новом функционале, обновлении документации и новостях проекта</small>  
 > <br clear="left">
 >
-> | :star: +10 |  :calendar: вчера в 15:30 |  :speech_balloon: 2 |  :eyes: 256 |
+> | :star: +13 |  :calendar: 29.04.2024 |  :speech_balloon: 2 |  :eyes: 498 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/a8a/a8ace770b9e89869c89effbf1e864fc9.png?95401dc0-cd14-40bb-b18b-e9fc8fe8fad0" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/a8a/a8ace770b9e89869c89effbf1e864fc9.png?7459dad5-5130-4c9b-8fbb-c69785b1d92f" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2035437/">Глоссарий HTTP аутентификации: Basic, Bearer, OAuth и другие непонятные слова</a></h4>
 > <small>Рано или поздно каждый 1С разработчик сталкивается с задачей автоматизации работы со сторонним сервисом посредством RestAPI. Одними из основных (а, как правило - и самыми запутанными) элементами любой пдобной автоматизации являются процессы авторизации и аутентификации. Токены, подписи, шифрование - как не потеряться во всем этом? Поможет данное краткое руководство</small>  
 > <br clear="left">
 >
-> | :star: +89 |  :calendar: 22.04.2024 |  :speech_balloon: 11 |  :eyes: 1829 |
+> | :star: +89 |  :calendar: 22.04.2024 |  :speech_balloon: 11 |  :eyes: 1859 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/c3b/c3bdd7c3c96daebccdf3c9a4054affa7.png?eb3f4e00-299a-4f06-a035-1d7e07dd2eda" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/c3b/c3bdd7c3c96daebccdf3c9a4054affa7.png?e994c443-949c-4496-89df-e383a26b009d" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2074205/">OInt CLI - приложение Открытого пакета интеграций для командной строки</a></h4>
 > <small>Все методы интеграции ОПИ теперь в формате приложения для CMD/Shell! Простой и компактный исполняемый файл со встроенной справкой - удобный инструмент для тестирования и работы с вашими любимыми сервисами. Пока в раннем доступе</small>  
 > <br clear="left">
 >
-> | :star: +42 |  :calendar: 15.04.2024 |  :speech_balloon: 11 |  :eyes: 1047 |
+> | :star: +42 |  :calendar: 15.04.2024 |  :speech_balloon: 11 |  :eyes: 1055 |
 >  |-|-|-|-|  
 </div>
 
