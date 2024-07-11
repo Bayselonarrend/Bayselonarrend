@@ -1,1 +1,1 @@
-![1](https://github.com/Bayselonarrend/Bayselonarrend/assets/105596284/da4ae7b1-de54-49bd-bcdf-9e8e30a06108)
+![1](https://github.com/Bayselonarrend/Bayselonarrend/assets/105596284/122dedc3-f28c-47a0-b91a-f447a7fb1b45)
